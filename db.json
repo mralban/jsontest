@@ -1,0 +1,12 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "country": "COP",
+      "trm": "3800,90",
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
